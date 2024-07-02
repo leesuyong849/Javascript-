@@ -56,7 +56,7 @@ body {
 
 .colorBtn {
   font-size: var(--font-size);
-  padding: calc(var(--base-space) * 2);
+  padding: calc( var(--base-space) * 2);
   border-radius: var(--size-border);
 }
 
